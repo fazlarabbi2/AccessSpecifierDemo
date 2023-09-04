@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifierDemo", "AccessSpecifierDemo\AccessSpecifierDemo.csproj", "{CBDB20E2-3F08-4180-871C-B7002855C256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyOne", "AssemblyOne\AssemblyOne.csproj", "{2F4C9AB4-750E-4DA2-B2A1-F547FCC7FA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDB20E2-3F08-4180-871C-B7002855C256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDB20E2-3F08-4180-871C-B7002855C256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDB20E2-3F08-4180-871C-B7002855C256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDB20E2-3F08-4180-871C-B7002855C256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4C9AB4-750E-4DA2-B2A1-F547FCC7FA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4C9AB4-750E-4DA2-B2A1-F547FCC7FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4C9AB4-750E-4DA2-B2A1-F547FCC7FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4C9AB4-750E-4DA2-B2A1-F547FCC7FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60567DEB-DCA9-44D5-ADE9-F101B2993852}
+	EndGlobalSection
+EndGlobal
